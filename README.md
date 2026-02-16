@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @MYW-ork (Ahem... interesting what my company name is "MYW". And 'MYW-Ork' let's read how 'MY-Work' giggles... And yes! I love Orks >,,<)
-- 👀 I’m interested in ... JSON, NodeJS, JavaScript, C#: (Unity, WPF, UWP, Xamarin) and other....)
-- 🌱 I’m currently learnhing ... NodeJS
-- 💞️ I’m looking to collaborate on ... don't know (._.') 3D artist maybe and 2D artist :3
-- 📫 How to reach me ... mmm... just write for my PM :) or my e-mail, giggles: firm-myw@hotmail.com
+# 👋 Привет, я @MYW-ork! 
 
-<!---
-MYW-ork/MYW-ork is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> Да-да, читается как "My Work". И да, я обожаю Орков! >,,<
+
+### 🛠 Мой стек:
+* **Languages:** JavaScript, C#, JSON
+* **Backend:** Node.js (активно изучаю сейчас 🌱)
+* **Frameworks/Engines:** Unity, WPF, UWP, Xamarin
+
+### 🎯 Мои цели:
+* Сейчас я углубляюсь в **Node.js**, чтобы делать крутой бэкенд.
+* Всегда рад пообщаться с **3D и 2D художниками** для совместных проектов! 🎨
+
+### 📫 Связаться со мной:
+* **E-mail:** firm-myw@hotmail.com
+* Пишите в личные сообщения (PM) — я не кусаюсь, если вы не эльф! ;)
